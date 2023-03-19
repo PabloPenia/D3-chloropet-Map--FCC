@@ -1,0 +1,21 @@
+{
+	"name": "chloropet",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"sass": "^1.59.3",
+		"vite": "^4.2.0"
+	},
+	"dependencies": {
+		"d3": "^7.8.2",
+		"topojson": "^3.0.2"
+	},
+	"main": "index.js",
+	"author": "Pablo Peña",
+	"license": "MIT"
+}
